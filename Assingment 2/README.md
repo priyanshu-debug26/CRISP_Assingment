@@ -18,7 +18,7 @@ AI Java Code Mentor is a modern, clean, and interactive Streamlit web applicatio
 ## 📁 Project Structure
 
 ```text
-AI-Java-Code-Mentor/
+Assingment 2/
 ├── app.py              # Main Streamlit web application code
 ├── llm.py              # Handles Groq API connection and API responses
 ├── prompts.py          # Stores System and User prompts for analysis tasks
@@ -36,7 +36,7 @@ Ensure you have **Python 3.8+** installed on your system.
 
 ### 2. Navigate to the project directory
 ```bash
-cd AI-Java-Code-Mentor
+cd "Assingment 2"
 ```
 
 ### 3. Create and activate a Virtual Environment (Recommended)
