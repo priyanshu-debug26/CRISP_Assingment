@@ -1,0 +1,18 @@
+# Configuration
+.env
+
+# Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+.gemini/
