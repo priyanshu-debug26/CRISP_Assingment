@@ -1,0 +1,20 @@
+# Credentials
+.env
+
+# Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+venv/
+.venv/
+env/
+
+# OS and IDE files
+.DS_Store
+.directory
+.vscode/
+.idea/
+.gemini/
