@@ -98,3 +98,14 @@ streamlit run app.py
 The application will start, and a link will print in your terminal (typically `http://localhost:8501`) which opens automatically in your web browser.
 
 ---
+
+## Screenshots
+
+<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/9287c713-9aac-4ee1-b4e5-706737cf8fd3" />
+<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/0967ecf4-d5d2-4465-996b-cd984062f7e3" />
+<img width="1920" height="984" alt="image" src="https://github.com/user-attachments/assets/0a8b1fab-8b4d-40d9-8b53-fdb3bedc6603" />
+<img width="1920" height="982" alt="image" src="https://github.com/user-attachments/assets/12a04d7b-b68d-4c1c-8b84-ac1bd161e481" />
+<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/d65e63f2-9a81-4d45-bb9a-96af3041e7f9" />
+<img width="1920" height="983" alt="image" src="https://github.com/user-attachments/assets/ab25ef7c-e11c-4903-8f32-67546a22dc63" />
+
+---
