@@ -89,3 +89,10 @@ streamlit run app.py
 Open `http://localhost:8501` in your browser.
 
 ---
+
+## Screenshots
+
+<img width="1920" height="978" alt="image" src="https://github.com/user-attachments/assets/3e4d9d43-2e95-481f-b5d0-46947fb61488" />
+<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/8a7a87fd-bce9-437b-86c2-a98664a5727b" />
+
+---
