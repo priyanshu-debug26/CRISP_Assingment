@@ -139,6 +139,15 @@ python main.py --live --model llama-3.3-70b-specdec
 
 ---
 
+## Screenshots
+
+<img width="1651" height="595" alt="image" src="https://github.com/user-attachments/assets/ca102108-09f4-4308-941c-235ce35cfcf7" />
+<img width="953" height="691" alt="image" src="https://github.com/user-attachments/assets/ec447157-eee6-4f7b-871b-64de1ecf8f94" />
+<img width="1637" height="904" alt="image" src="https://github.com/user-attachments/assets/a4d89909-9910-4a6c-bfd5-734f61038baf" />
+<img width="1655" height="910" alt="image" src="https://github.com/user-attachments/assets/090e0440-037a-4f7e-8199-593b32611bd0" />
+
+---
+
 ## Future Improvements
 
 - Add token-consumption logging.
@@ -146,8 +155,3 @@ python main.py --live --model llama-3.3-70b-specdec
 - Implement export formats (JSON, CSV).
 
 ---
-
-## Author Placeholder
-
-*Completed by:* **Priyanshu Pandey**  
-*Course:* Generative AI Workshop - Assignment 1
