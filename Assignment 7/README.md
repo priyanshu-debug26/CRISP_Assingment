@@ -140,6 +140,8 @@ This capstone project is deployment-ready for Streamlit Community Cloud:
 
 ---
 
+## Deployed Link: https://deploy-debug26.streamlit.app/
+
 ## Future Improvements
 
 - **RAG Job Description Alignment**: Allow candidates to paste job listings to assess match percent.
