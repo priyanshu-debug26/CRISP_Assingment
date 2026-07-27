@@ -140,7 +140,20 @@ This capstone project is deployment-ready for Streamlit Community Cloud:
 
 ---
 
-## Deployed Link: https://deploy-debug26.streamlit.app/
+### Deployed Link: https://deploy-debug26.streamlit.app/
+
+---
+
+## Screenshots
+
+<img width="1920" height="982" alt="image" src="https://github.com/user-attachments/assets/8b1acf7f-6db6-4d29-824c-ab50022dd8fa" /> 
+<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/168e5f9e-a9bb-43fd-9957-5c51a4befacf" />
+<img width="1920" height="981" alt="image" src="https://github.com/user-attachments/assets/b3ab814b-9dc4-44f1-9133-2a0ba3a8ac5a" />
+<img width="1920" height="979" alt="image" src="https://github.com/user-attachments/assets/3ff708ff-ed0e-4f57-86e1-18f78ead75f0" />
+<img width="1920" height="979" alt="image" src="https://github.com/user-attachments/assets/99f00883-1298-482b-83fb-57dca64d1aa5" />
+<img width="1920" height="982" alt="image" src="https://github.com/user-attachments/assets/2e0966f7-acc1-45d7-994d-693c5aab3c4c" />
+
+---
 
 ## Future Improvements
 
