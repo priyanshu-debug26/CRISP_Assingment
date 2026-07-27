@@ -94,3 +94,9 @@ streamlit run app.py
 This will open the web interface in your default browser at `http://localhost:8501`.
 
 ---
+
+## Screenshot
+
+<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/546fe8c3-02a6-466d-aa81-75d08c6507c2" />
+<img width="1920" height="979" alt="image" src="https://github.com/user-attachments/assets/43aab63c-6dab-4713-885a-22ee948b45e9" />
+
