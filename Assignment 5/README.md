@@ -83,3 +83,8 @@ Open `http://localhost:8501` in your browser.
 
 ---
 
+## Screenshots
+
+<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/682fdddd-a7f8-4a16-83c0-26998f3e48a3" />
+<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/17f9c835-0153-4993-9036-242f27d443f6" />
+
