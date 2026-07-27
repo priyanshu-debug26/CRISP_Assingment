@@ -77,6 +77,14 @@ This will automatically open your default browser to `http://localhost:8501`. If
 
 ---
 
+## Screenshots
+
+<img width="1920" height="983" alt="image" src="https://github.com/user-attachments/assets/efa109f9-918e-4689-9f5e-5fe454962d52" />
+<img width="1920" height="977" alt="image" src="https://github.com/user-attachments/assets/151979fe-97cf-407e-8715-11f1615703b2" />
+<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/abb58560-dfaf-40ac-b180-0e5474f499ed" />
+
+---
+
 ## 🧠 Technologies Used
 - **Streamlit**: For the interactive web application interface.
 - **Groq API**: For lightning-fast LLM inference using LPU accelerators.
